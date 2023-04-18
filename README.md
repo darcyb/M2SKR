@@ -1,3 +1,7 @@
+# Marlin for Makergear M2 with SKR Mini E3 V3
+This is the firmware I'm using on my M2 with an SKR Mini and BLTouch. I had an M2E but I've upgraded it with the F/G cooling kit, and it came with a V4 nozzle. This firmware comes with no warranties express or implied. If you find errors, please consider contributing, or sending me a note here or on the Facebook group. 
+
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
